@@ -1,3 +1,7 @@
 venv/
 *.pyc
 *.pyo
+*.swp
+*.h5
+.ipynb_checkpoints/*
+data/*
